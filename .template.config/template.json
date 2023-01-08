@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Mateusz Woźniak",
+  "name": "GraphQL API service with Firebase auth",
+  "description": "A project for creating a command-line application that can run on .NET on Windows, Linux and macOS, and has an async Main method.",
+  "identity": "MateuszWozniak.GraphQLService.1.0",
+  "shortName": "graphqlservice",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "MyProject"
+}
